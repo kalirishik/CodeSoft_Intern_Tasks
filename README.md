@@ -1,7 +1,6 @@
 # CodeSoft_Intern_Tasks
-# Project Title
 
-Brief description or introduction to the project.
+A collection of Java projects including Number Game, Student Grade Calculator, ATM Interface, Quiz Application with Timer, and Student Course Registration System, providing hands-on experience with various programming concepts.
 
 ## Task 1: Number Game
 
@@ -43,18 +42,5 @@ Brief description or introduction to the project.
 - Display available courses with details and slots.
 - Allow students to register and drop courses.
 
-## Installation
 
-Instructions for installation/setup, if applicable.
 
-## Usage
-
-Instructions for usage and how to run the project.
-
-## Contributing
-
-Guidelines for contributing to the project, if applicable.
-
-## License
-
-Information about the project's license.
